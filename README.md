@@ -1,10 +1,13 @@
 Advanced 4x4 Tic-Tac-Toe with AI
+
 An enhanced version of Tic-Tac-Toe built with Python and Pygame featuring a 4x4 grid, strategic power moves ("Swap" and "Block"), and a smart AI opponent using the Minimax algorithm with Alpha-Beta Pruning.
 
 🧠 Project Overview
+
 This project introduces a 4x4 variant of the classic Tic-Tac-Toe game with added strategic complexity through power moves. The AI opponent is designed to make optimal decisions using advanced search algorithms and heuristic evaluation.
 
 🎮 Game Features
+
 4x4 Grid: Requires four aligned marks to win.
 
 Power Moves:
